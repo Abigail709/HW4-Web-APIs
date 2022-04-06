@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    background-color: rgb(236, 114, 154);
+}
+
+#highscore {
+    text-align: left ;
+}
+
+.timer {
+    text-align: right;
+    margin-top: -40px;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+#words {
+    text-align: center;
+}
+
+
+button {
+    padding: 10px;
+    margin-top: 60px;
+    margin-left: 550px;
+    cursor: pointer;
+    font-size: 24px;
+
+}
